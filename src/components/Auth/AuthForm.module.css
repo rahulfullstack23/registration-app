@@ -37,6 +37,11 @@
   padding: 0.25rem;
 }
 
+.errorMessage {
+  color: #ffb4b4;
+  font-weight: bold;
+}
+
 .actions {
   margin-top: 1.5rem;
   display: flex;
